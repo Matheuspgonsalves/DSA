@@ -135,9 +135,10 @@ Legend: ✅ studied and implemented · 🚧 in progress · ⬜ not started
 
 ## Progress
 
+- **Overall completion:** 12.3% (7 / 57 roadmap items)
 - **Main topics explored:** 5 / 16
 - **Implementations completed:** 7
-- **Algorithms completed:** 3 / 8 planned sorting algorithms
+- **Algorithms completed:** 3 / 49 planned algorithm submodules
 - **Data structures completed:** 4 / 8
 
 ## Repository structure
