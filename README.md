@@ -12,7 +12,7 @@ Legend: ✅ studied and implemented · 🚧 in progress · ⬜ not started
 
 | Topic | What it covers | Status |
 |---|---|---|
-| [Sorting](./Algorithms/Sorting) | Comparison and non-comparison sorting algorithms | 🚧 In progress (2 / 8) |
+| [Sorting](./Algorithms/Sorting) | Comparison and non-comparison sorting algorithms | 🚧 In progress (3 / 8) |
 | [Search](./Algorithms/Search) | Linear, binary, and advanced search strategies | ⬜ Not started |
 | [Recursion](./Algorithms/Recursion) | Base cases, recursive decomposition, and call stacks | ⬜ Not started |
 | [Divide and Conquer](./Algorithms/DivideAndConquer) | Breaking problems into smaller independent subproblems | ⬜ Not started |
@@ -24,10 +24,10 @@ Legend: ✅ studied and implemented · 🚧 in progress · ⬜ not started
 #### Algorithm submodules
 
 <details open>
-<summary><strong>Sorting — 2 / 8</strong></summary>
+<summary><strong>Sorting — 3 / 8</strong></summary>
 
 - [x] [Bubble Sort](./Algorithms/Sorting/bubble-sort)
-- [ ] [Insertion Sort](./Algorithms/Sorting/insertion-sort)
+- [x] [Insertion Sort](./Algorithms/Sorting/insertion-sort)
 - [x] [Selection Sort](./Algorithms/Sorting/selection-sort)
 - [ ] [Merge Sort](./Algorithms/Sorting/merge-sort)
 - [ ] [Quick Sort](./Algorithms/Sorting/quick-sort)
@@ -136,8 +136,8 @@ Legend: ✅ studied and implemented · 🚧 in progress · ⬜ not started
 ## Progress
 
 - **Main topics explored:** 5 / 16
-- **Implementations completed:** 6
-- **Algorithms completed:** 2 / 8 planned sorting algorithms
+- **Implementations completed:** 7
+- **Algorithms completed:** 3 / 8 planned sorting algorithms
 - **Data structures completed:** 4 / 8
 
 ## Repository structure
