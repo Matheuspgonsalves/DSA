@@ -14,7 +14,7 @@ npm test
 
 | Algorithm | Folder | Category | Status |
 |---|---|---|---|
-| Bubble Sort | [`bubble-sort`](./bubble-sort) | Comparison-based, O(n²) | ⬜ Pending |
+| Bubble Sort | [`bubble-sort`](./bubble-sort) | Comparison-based, O(n²) | ✅ Implemented |
 | Insertion Sort | [`insertion-sort`](./insertion-sort) | Comparison-based, O(n²) | ⬜ Pending |
 | Selection Sort | [`selection-sort`](./selection-sort) | Comparison-based, O(n²) | ✅ Implemented |
 | Merge Sort | [`merge-sort`](./merge-sort) | Comparison-based, Divide & Conquer, O(n log n) | ⬜ Pending |
