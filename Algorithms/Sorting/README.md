@@ -17,7 +17,7 @@ npm test
 | Bubble Sort | [`bubble-sort`](./bubble-sort) | Comparison-based, O(n²) | ✅ Implemented |
 | Insertion Sort | [`insertion-sort`](./insertion-sort) | Comparison-based, O(n²) | ✅ Implemented |
 | Selection Sort | [`selection-sort`](./selection-sort) | Comparison-based, O(n²) | ✅ Implemented |
-| Merge Sort | [`merge-sort`](./merge-sort) | Comparison-based, Divide & Conquer, O(n log n) | ⬜ Pending |
+| Merge Sort | [`merge-sort`](./merge-sort) | Comparison-based, Divide & Conquer, O(n log n) | ✅ Implemented |
 | Quick Sort | [`quick-sort`](./quick-sort) | Comparison-based, Divide & Conquer, avg O(n log n) | ⬜ Pending |
 | Heap Sort | [`heap-sort`](./heap-sort) | Comparison-based, Heap, O(n log n) | ⬜ Pending |
 | Counting Sort | [`counting-sort`](./counting-sort) | Non-comparison-based, O(n + k) | ⬜ Pending |
